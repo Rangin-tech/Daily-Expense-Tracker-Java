@@ -17,6 +17,7 @@ A console-based Java application that allows students to record, view, and analy
 - Collections Framework
 
 ## ▶️ How to Run
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rangin-tech/Student-Expense-Tracker-Java
