@@ -17,13 +17,17 @@ A console-based Java application that allows students to record, view, and analy
 - Collections Framework
 
 ## ▶️ How to Run
-## 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rangin-tech/Student-Expense-Tracker-Java
 
-## 2.Navigate to the source folder:
-     cd Student-Expense-Tracker-Java/src
-## 3.Compile the program:
-     javac StudentExpenseTracker.java
-## 4.Run the application:
-     java StudentExpenseTracker
+```bash
+# 1. Clone the repository
+git clone https://github.com/Rangin-tech/Student-Expense-Tracker-Java
+
+# 2. Navigate to the source folder
+cd Student-Expense-Tracker-Java/src
+
+# 3. Compile the program
+javac StudentExpenseTracker.java
+
+# 4. Run the application
+java StudentExpenseTracker
+
